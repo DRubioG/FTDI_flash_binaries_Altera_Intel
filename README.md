@@ -1,2 +1,6 @@
 # FTDI_flash_binaries_Altera_Intel
  FTDI flash binaries for Altera/Intel JTAG
+
+Only compatible with FT245 chip
+
+[jtag_quartus](./binaries/jtag_quartus.conf)
