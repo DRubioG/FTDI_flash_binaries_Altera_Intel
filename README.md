@@ -3,7 +3,7 @@
 
 Only compatible with FT245 chip
 
-[jtag_quartus](./binaries/jtag_quartus.conf)
+[jtag_quartus](./binaries/jtag_quartus.conf) (JTAG)
 
 Other repos:
 - Xilinx: https://github.com/DRubioG/FTDI_flash_binaries_Xilinx
